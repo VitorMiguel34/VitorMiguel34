@@ -16,8 +16,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorMiguel34&show_icons=true&theme=dracula" alt="Meu github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMiguel34&layout=compact&langs_count=6&theme=dracula" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorMiguel34&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=1" alt="Seu GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMiguel34&layout=compact&langs_count=6&theme=dark&v=1" alt="Linguagens Mais Usadas" />
 </p>
 
 ---

@@ -1,8 +1,8 @@
 # HELLO THERE 👋
 
-## Linguagens e Ferramentas
-
 #Estudante do Novo Ensino Suplementar e do Instituto Federal, interessado em computaçâo e exatas
+
+## Linguagens e Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>

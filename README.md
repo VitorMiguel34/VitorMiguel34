@@ -2,7 +2,7 @@
 
 **Estudante do Novo Ensino Suplementar e do Instituto Federal** | Apaixonado por Computação e Exatas 🚀
 
-Sou um desenvolver iniciante focado em aprender e aprimorar minhas habilidades
+Sou um desenvolver iniciante focado em aprender e aprimorar minhas habilidades.Tenho 15 anos e atualmente estou concluindo o primeiro ano do ensino médio
 
 ## 🔧 Linguagens e Ferramentas
 

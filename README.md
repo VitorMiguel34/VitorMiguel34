@@ -4,6 +4,8 @@
 
 Sou um desenvolvedor iniciante focado em aprender e aprimorar minhas habilidades. Tenho 15 anos e atualmente estou concluindo o primeiro ano do ensino médio.
 
+---
+
 ## 🔧 Linguagens e Ferramentas
 
 <p align="left">
@@ -22,8 +24,8 @@ Sou um desenvolvedor iniciante focado em aprender e aprimorar minhas habilidades
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorMiguel34&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMiguel34&layout=compact&langs_count=6&theme=dark&v=1" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorMiguel34&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorMiguel34&layout=compact&langs_count=6&theme=dark" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
@@ -33,12 +35,12 @@ Sou um desenvolvedor iniciante focado em aprender e aprimorar minhas habilidades
 Aqui estão alguns dos projetos que tenho trabalhado. Sinta-se à vontade para explorar e contribuir!
 
 ### [Projeto 1 - Loja virtual](https://github.com/VitorMiguel34/Loja)
-- **Descrição**: Loja virtual - Cadastro, login e sistema de compras, com manipulação de banco de dados
+- **Descrição**: Loja virtual - Cadastro, login e sistema de compras, com manipulação de banco de dados.
 - **Tecnologias Usadas**: Django Rest + React
 - **Link**: [GitHub](https://github.com/VitorMiguel34/Loja)
 
 ### [Projeto 2 - Site acadêmico](https://github.com/VitorMiguel34/Trabalho---PWEB)
-- **Descrição**: Criação de um sistema acadêmico com HTML, CSS e JS puro
+- **Descrição**: Criação de um sistema acadêmico com HTML, CSS e JS puro.
 - **Tecnologias Usadas**: JavaScript, HTML e CSS
 - **Link**: [GitHub](https://github.com/VitorMiguel34/Trabalho---PWEB)
 

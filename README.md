@@ -37,17 +37,24 @@ Sou um desenvolvedor iniciante, focado em aprimorar minhas habilidades e aprende
 
 ### 🚀 Projetos em Destaque
 
+#### 🎵 [AudioFlow (Spotify Clone)](https://github.com/VitorMiguel34/AudioFlow)
+*Aplicativo de streaming de músicas inspirado no Spotify*
+- **Frontend:** React + TypeScript + Tailwind CSS  
+- **Backend:** Django REST Framework com autenticação JWT  
+- **Funcionalidades:** Player de áudio, playlists, curtidas/favoritos e autenticação de usuários  
+- **Status:** Projeto em desenvolvimento inicial, com foco em arquitetura full stack e boas práticas
+
 #### 📦 [Loja Virtual](https://github.com/VitorMiguel34/Loja)
 *E-commerce com integração com API e banco de dados*
-- **Arquitetura:** Integração de **Django Rest Framework** (API) com **React.js** para uma interface fluida.
-- **Funcionalidades:** Sistema de autenticação de usuários, CRUD de produtos, gestão de carrinho e persistência em banco de dados.
-- **Destaque Técnico:** Implementação de uma API RESTful consumida de forma assíncrona pelo Frontend.
+- **Arquitetura:** Django REST Framework (API) + React.js  
+- **Funcionalidades:** Autenticação de usuários, CRUD de produtos, carrinho de compras e persistência em banco de dados  
+- **Destaque Técnico:** Consumo assíncrono de API REST no frontend
 
 #### 🎓 [Portal Acadêmico PWEB](https://github.com/VitorMiguel34/Trabalho---PWEB)
-*Sistema de gestão escolar focado em performance e responsividade.*
-- **Tecnologias:** Uso de **JavaScript Vanilla**, HTML5 e CSS.
-- **Funcionalidades:** Cálculo automatizado de notas e manipulação dinâmica de elementos via DOM.
-- **Aprendizado:** Domínio das bases da Web (CSS Grid/Flexbox) antes da transição para frameworks.
+*Trabalho acadêmico da disciplina de Programação Web (PWEB)*
+- **Tecnologias:** JavaScript Vanilla, HTML5 e CSS3  
+- **Funcionalidades:** Cálculo automatizado de notas e manipulação dinâmica do DOM  
+- **Aprendizado:** Consolidação dos fundamentos da Web (Flexbox, Grid e JavaScript puro)
 
 ---
 

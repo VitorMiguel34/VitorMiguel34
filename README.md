@@ -37,7 +37,7 @@ Sou um desenvolvedor iniciante, focado em aprimorar minhas habilidades e aprende
 
 ### 🚀 Projetos em Destaque
 
-#### 🎵 [AudioFlow (Spotify Clone)](https://github.com/VitorMiguel34/AudioFlow)
+#### 🎵 [AudioFlow](https://github.com/VitorMiguel34/AudioFlow)
 *Aplicativo de streaming de músicas inspirado no Spotify*
 - **Frontend:** React + TypeScript + Tailwind CSS  
 - **Backend:** Django REST Framework com autenticação JWT  

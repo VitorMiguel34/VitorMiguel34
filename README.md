@@ -2,7 +2,7 @@
 
 **Desenvolvedor em formação** | Aluno do **IFAL** e do **NES** 🚀
 
-Sou um desenvolvedor iniciante, focado em aprimorar minhas habilidades e aprender coisas novas sempre que possível. Atualmente tenho 15 anos e estou cursando o 1º ano do Ensino Médio Técnico; busco aplicar conceitos acadêmicos em projetos reais, sempre priorizando o entendimento dos fundamentos por trás das tecnologias. Minha prioridade no momento é aprofundar meus conhecimentos em Python para desenvolver tarefas envolvendo análise de dados, IA e automações.
+Sou um desenvolvedor iniciante, focado em aprimorar minhas habilidades e aprender coisas novas sempre que possível. Atualmente tenho 15 anos e estou cursando o 2º ano do Ensino Médio Técnico; busco aplicar conceitos acadêmicos em projetos reais, sempre priorizando o entendimento dos fundamentos por trás das tecnologias. Minha prioridade no momento é aprofundar meus conhecimentos em Python para desenvolver tarefas envolvendo análise de dados, IA e automações.
 
 ---
 

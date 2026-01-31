@@ -67,9 +67,6 @@ O objetivo do repositório é registrar minha evolução, consolidar o aprendiza
 
 ## 🚀 Projetos em Destaque
 
-### 🎵 [AudioFlow](https://github.com/VitorMiguel34/AudioFlow)
-*Aplicativo de streaming de músicas inspirado no Spotify*
-
 ### 📦 [Loja Virtual](https://github.com/VitorMiguel34/Loja)
 *E-commerce com integração com API e banco de dados*
 

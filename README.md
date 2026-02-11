@@ -30,8 +30,9 @@ Estudo os algoritmos a partir da base matemática e computacional, com foco em r
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### Automação
+### Automação & Web Scraping
 <p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Requests-000000?style=for-the-badge"/>
 </p>

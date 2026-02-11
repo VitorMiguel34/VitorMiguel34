@@ -70,7 +70,7 @@ Estudo os algoritmos a partir da base matemática e computacional, com foco em r
 
 ## 📫 Contato
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/victor-miguel-285686379/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>

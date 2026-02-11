@@ -20,7 +20,7 @@ Estudo os algoritmos a partir da base matemática e computacional, com foco em r
 ## 🧰 Tecnologias
 
 ### Linguagens & Frameworks
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -31,13 +31,13 @@ Estudo os algoritmos a partir da base matemática e computacional, com foco em r
 </p>
 
 ### Automação
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Requests-000000?style=for-the-badge"/>
 </p>
 
 ### Dados & Machine Learning
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>

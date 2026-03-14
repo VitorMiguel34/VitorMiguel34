@@ -63,8 +63,8 @@ Estudo os algoritmos a partir da base matemática e computacional, com foco em r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorMiguel34&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorMiguel34&layout=compact&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorMiguel34&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Estatísticas do GitHub do Vitor" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMiguel34&layout=compact&theme=dark&hide_border=true" height="165" alt="Linguagens mais usadas" />
 </p>
 
 ---

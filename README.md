@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:61dafb&height=140&section=header&text=Victor%20Miguel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:61dafb&height=140&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h1 align="center">Olá, eu sou o Victor Miguel 👋</h1>
 
